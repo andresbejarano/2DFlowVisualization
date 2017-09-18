@@ -1,4 +1,11 @@
-# 2DFlowVisualization
+<div style="text-align:center;">
+  <img src="https://github.com/andresbejarano/2DFlowVisualization/blob/master/images/img1.jpg" width="200" />
+  <img src="https://github.com/andresbejarano/2DFlowVisualization/blob/master/images/img2.jpg" width="200" />
+  <img src="https://github.com/andresbejarano/2DFlowVisualization/blob/master/images/img3.jpg" width="200" />
+  <img src="https://github.com/andresbejarano/2DFlowVisualization/blob/master/images/img4.jpg" width="200" />
+</div>
+
+# 2D Flow Visualization
 A 2D flow visualization tool based on Line Intergral Convolution (LIC) and Runge-Kutta 4 (RK4). Developed using C++ and VTK.
 
 ## Instructions
